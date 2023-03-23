@@ -1,0 +1,102 @@
+[
+	{
+		"taskName": "Finish Project",
+		"taskDescription": "Make a todo list",
+		"status": "In Progress",
+		"startDate": "2023-02-17",
+		"dueDate": "2023-02-22",
+		"pictureUrl": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+		"email": "claudiuszidelo@yahoo.com",
+		"assignedUser": "Claudiu"
+	},
+	{
+		"taskName": "Design Logo",
+		"taskDescription": "Create a logo for the company",
+		"status": "In Progress",
+		"startDate": "2023-03-01",
+		"dueDate": "2023-03-07",
+		"pictureUrl": "https://cdn-icons-png.flaticon.com/512/555/555516.png",
+		"email": "emilyanderson@gmail.com",
+		"assignedUser": "Emily"
+	},
+	{
+		"taskName": "Write Article",
+		"taskDescription": "Write an article about AI",
+		"status": "Not Started",
+		"startDate": "",
+		"dueDate": "2023-03-30",
+		"pictureUrl": "https://cdn-icons-png.flaticon.com/512/1677/1677685.png",
+		"email": "johnalex@hotmail.com",
+		"assignedUser": "Alex"
+	},
+	{
+		"taskName": "Prepare Presentation",
+		"taskDescription": "Prepare a presentation for the meeting",
+		"status": "Completed",
+		"startDate": "2023-03-10",
+		"dueDate": "2023-03-15",
+		"pictureUrl": "https://cdn-icons-png.flaticon.com/512/2706/2706482.png",
+		"email": "johnsmith@yahoo.com",
+		"assignedUser": "John"
+	},
+	{
+		"taskName": "Develop App",
+		"taskDescription": "Develop a new app for the company",
+		"status": "In Progress",
+		"startDate": "2023-03-05",
+		"dueDate": "2023-04-30",
+		"pictureUrl": "https://cdn-icons-png.flaticon.com/512/2462/2462979.png",
+		"email": "samanthajones@outlook.com",
+		"assignedUser": "Samantha"
+	},
+	{
+		"taskName": "Create Marketing Campaign",
+		"taskDescription": "Create a marketing campaign for the new product",
+		"status": "Not Started",
+		"startDate": "",
+		"dueDate": "2023-04-15",
+		"pictureUrl": "https://cdn-icons-png.flaticon.com/512/832/832067.png",
+		"email": "michaelwilson@icloud.com",
+		"assignedUser": "Michael"
+	},
+	{
+		"taskName": "Fix Bugs",
+		"taskDescription": "Fix bugs in the software",
+		"status": "In Progress",
+		"startDate": "2023-03-20",
+		"dueDate": "2023-03-31",
+		"pictureUrl": "https://cdn-icons-png.flaticon.com/512/2462/2462952.png",
+		"email": "joshbrown@gmail.com",
+		"assignedUser": "Josh"
+	},
+	{
+		"taskName": "Organize Team Building Event",
+		"taskDescription": "Plan and organize a team building event for the company",
+		"status": "Not Started",
+		"startDate": "",
+		"dueDate": "2023-04-30",
+		"pictureUrl": "https://cdn-icons-png.flaticon.com/512/2991/2991462.png",
+		"email": "janekaren@hotmail.com",
+		"assignedUser": "Karen"
+	},
+	{
+		"taskName": "Conduct User Research",
+		"taskDescription": "Conduct user research to gather insights for product development",
+		"status": "In Progress",
+		"startDate": "2023-03-15",
+		"dueDate": "2023-03-31",
+		"pictureUrl": "https://cdn-icons-png.flaticon.com/512/2751/2751704.png",
+		"email": "jessicalee@yahoo.com",
+		"assignedUser": "Jessica"
+	},
+	{
+		"taskName": "Develop Social Media Strategy",
+		"taskDescription": "Develop a social media strategy to increase brand awareness and engagement",
+		"status": "Completed",
+		"startDate": "2023-03-01",
+		"dueDate": "2023-03-15",
+		"pictureUrl": "https://cdn-icons-png.flaticon.com/512/2772/2772579.png",
+		"email": "davidwang@outlook.com",
+		"assignedUser": "David"
+	}
+]

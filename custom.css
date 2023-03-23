@@ -1,0 +1,11 @@
+.date {
+    /* border-radius: 10%; */
+    border: none;
+    background-color: inherit;
+}
+
+.editable-text {
+    color: rgb(59, 113, 202);
+    font-weight: 800;
+  }
+
